@@ -217,5 +217,12 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# Raw datasets
+# macOS
+.DS_Store
+
+# Python
+.venv/
+
+# Datasets
 data/raw/
+data/processed/
